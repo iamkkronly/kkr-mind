@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data
+.kkrmind/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets — never commit credentials
+*.env
+*.token
